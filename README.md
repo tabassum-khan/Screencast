@@ -6,7 +6,7 @@ The time of the scheduler can be changed in Scheduler.java at line 31:
 ![scheduler-img](img/scheduler_screenshot.png)
 
 ## How to run this application?
-1. Install the latest JRE.
+1. Install the latest JRE. [Download JRE](https://www.oracle.com/java/technologies/downloads/#jdk19-windows)
 2. Open the folder in Eclipse IDE or any other IDE that supports Java.
 3. Run the main application and a GUI will appear like this.
 4. Select the folder you want to save the screenshots to.
