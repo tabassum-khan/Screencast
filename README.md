@@ -17,5 +17,5 @@ The time of the scheduler can be changed in Scheduler.java at line 31:
 ![start app](app-images/app-started.png)<br /> <br />
 6. You can pause the screenshots by clicking the pause button and can again restart it by clicking the start button.
 ![pause app](app-images/app-paused.png)<br /> <br />
-7. Here is some screenshots taken by the app.
+7. Here are some screenshots taken by the app.
 ![screenshots-by-app](app-images/screenshots.png)
