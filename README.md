@@ -7,8 +7,9 @@ The time of the scheduler can be changed in Scheduler.java at line 31:
 
 ## How to run this application?
 1. Install the latest JRE. [Download JRE](https://www.oracle.com/java/technologies/downloads/#jdk19-windows)
-2. Open the folder in Eclipse IDE or any other IDE that supports Java.
-3. Run GUI.java or simply, you can double-click on .jar file to run the application. The app window will appear like this:
+2. Download the .jar file to run the application.
+2. To use the code, download the zip folder or clone it. Open the folder in Ecipse IDE or any other IDE that supports Java.
+3. The app window should appear like this:
 ![home window](app-images/home-window.png) <br /> <br />
 4. Select the directory you want to save the screenshots to.
 ![choose dir](app-images/choose-dir.png)<br /> <br />
